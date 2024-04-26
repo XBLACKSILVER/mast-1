@@ -57,13 +57,4 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.239:2375#v2cross.com
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.162.200.239:8080#v2cross.com
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.225:8118#v2cross.com
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.162.200.239:6679#v2cross.com
-ss://YWVzLTEyOC1nY206VGVsZWdyYW0tWkVETU9ERU9O@78.153.149.211:25365#v2cross.com
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5600#v2cross.com
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8090#v2cross.com
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8091#v2cross.com
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.228.113:30129#v2cross.com
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.162.200.239:445#v2cross.com
-trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp#v2cross.com
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.225:9101#v2cross.com
-trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&headerType=none&type=tcp&sni=z-v2-002797.kailib.com#v2cross.com
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.239:5601#v2cross.com
+

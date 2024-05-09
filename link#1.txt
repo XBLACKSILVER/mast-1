@@ -21,3 +21,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.39:5601#US15
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.239:5004#CA2
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.6:5499#US16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#US17
+trojan://3F98apiP9b@104.21.69.44:2083?path=%2Fwss51633%3Fed%3D2048&security=tls&host=de.jerifun.ir&fp=chrome&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-104.21.69.44%3A2083+%F0%9F%93%A1+PING-005.73-MS
+trojan://3F98apiP9b@172.67.204.84:2083?path=%2Fwss51633%3Fed%3D2048&security=tls&host=de.jerifun.ir&fp=chrome&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir#%F0%9F%94%92+TR-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-172.67.204.84%3A2083+%F0%9F%93%A1+PING-005.14-MS
+trojan://3F98apiP9b@104.21.69.44:2083?path=%2Fwss51633%3Fed&security=tls&host=de.jerifun.ir&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://3F98apiP9b@104.21.69.44:2083?path=%2Fwss51633%3Fed&security=tls&host=de.jerifun.ir&fp=chrome&type=ws&sni=deheueu3gev77uknbcxst6.jerifun.ir#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9

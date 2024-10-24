@@ -37,3 +37,4 @@ vless://dc2fd4cc-0d8a-4410-bdcd-1a41b3bbde85@185.146.173.58:2095?path=%2F&securi
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.19.189.243:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=AzAdnET-semEj.PaGes.Dev&fp=randomized&type=ws&sni=aZadNEt-sEmEj.paGES.dEv#1+%F0%9F%87%A8%F0%9F%87%A6
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.126.77:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#2%F0%9F%87%A8%F0%9F%87%A6
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@49.13.152.141:80?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%F0%9F%87%A9%F0%9F%87%AADE3
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#%F0%9F%87%AA%F0%9F%87%B8SP

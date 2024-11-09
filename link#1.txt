@@ -1,8 +1,6 @@
 
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%F0%9F%8D%81+CA
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B7+CR
-vless://f957550d-086a-4b45-8050-fb5220701c26@104.17.148.22:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
+
 vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@172.67.2.238:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev&type=ws#%F0%9F%8D%81+CA
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=king1980us.50fo8itj.workers.dev&type=ws#%F0%9F%8D%81+CA
 vless://68f002e5-b3d9-443f-e2d4-799d54755286@104.21.13.125:2095?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.Jaricopen.Shop.&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US

@@ -1,13 +1,4 @@
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B7+CR
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.21.3.233:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.21.3.233:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AADE
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.151:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#%F0%9F%8D%81+CA
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BA%F0%9F%87%B8+US
+
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%F0%9F%8D%81+CA
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B7+CR

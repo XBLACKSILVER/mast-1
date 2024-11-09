@@ -12,15 +12,7 @@ vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2FTelegram%
 vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@172.67.2.238:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev&type=ws#%F0%9F%8D%81+CA
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=king1980us.50fo8itj.workers.dev&type=ws#%F0%9F%8D%81+CA
 vless://68f002e5-b3d9-443f-e2d4-799d54755286@104.21.13.125:2095?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.Jaricopen.Shop.&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://3e842562-4d57-4177-9204-8393fcd3654b@151.101.130.219:80?path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&security=none&encryption=none&host=bas-kon-irani.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US
-vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#%F0%9F%87%AA%F0%9F%87%B8+SP
-vless://faebe115-3327-4176-b0ef-783de13a0076@172.66.44.212:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=asdfghjkiuytre.pages.dev&fp=randomized&type=ws&sni=asdfghjkiuytre.pages.dev#%F0%9F%8D%81+CA
-vless://119e2518-a885-4e0c-8b11-6a5d7f7ff00d@104.19.57.37:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-vpnhttpinjectorfree-30.veleh14860.workers.dev&type=ws&sni=telegram-vpnhttpinjectorfree-30.veleh14860.workers.dev#%F0%9F%87%BA%F0%9F%87%B8+US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%F0%9F%87%BA%F0%9F%87%B8+US
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#%F0%9F%87%A9%F0%9F%87%AA+DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.74.69:443#%F0%9F%87%A6%F0%9F%87%AA+AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.121.2:443#%F0%9F%87%A7%F0%9F%87%AD+BH
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#%F0%9F%87%A9%F0%9F%87%AA+DE
+
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#%F0%9F%87%A9%F0%9F%87%AA+DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.176.144.31:443#%F0%9F%87%AC%F0%9F%87%A7+GB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7+GB
